@@ -1,0 +1,37 @@
+{
+    "streams": [
+      {
+        "title": "Warzone",
+        "description": "Ranking up!!!",
+        "id": 1
+      },
+      {
+        "title": "New World",
+        "description": "Level 60 today",
+        "id": 2
+      },
+      {
+        "title": "Cod",
+        "description": "warzone top 10",
+        "id": 3
+      },
+      {
+        "title": "New Stream",
+        "description": "New Desc",
+        "userId": "100270193591397517644",
+        "id": 5
+      },
+      {
+        "title": "qwe",
+        "description": "qwe",
+        "userId": "100270193591397517644",
+        "id": 6
+      },
+      {
+        "title": "hello",
+        "description": "qwe",
+        "userId": "100270193591397517644",
+        "id": 7
+      }
+    ]
+  }
